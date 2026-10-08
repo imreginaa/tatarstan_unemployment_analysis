@@ -57,7 +57,7 @@ tatarstan-unemployment-analysis/
 │   └── processed/
 │       └── tatarstan_economic_data_clean.csv
 │
-├── notebooks/
+├── notebook/
 │   ├── 01_data_preparation.ipynb
 │   ├── 02_eda.ipynb
 │   ├── 03_bayesian_model.ipynb

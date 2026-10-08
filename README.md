@@ -55,7 +55,7 @@ tatarstan-unemployment-analysis/
 |   |-- processed/
 |       |-- tatarstan_economic_data_clean.csv
 |
-|-- notebooks/
+|-- notebook/
 |   |-- 01_data_preparation.ipynb
 |   |-- 02_eda.ipynb
 |   |-- 03_bayesian_model.ipynb
@@ -244,7 +244,7 @@ cd tatarstan-unemployment-analysis
 pip install -r requirements.txt
 ```
 
-### 3. Run the notebooks
+### 3. Run the notebook
 
 The notebooks are organized in the recommended execution order:
 
